@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+}
+
+.main {
+    position: relative;
+    background-image: linear-gradient(orange,white,green);
+    top: 150px;
+    height: 10rem;
+    width: 30rem;
+    height: 20rem;
+    font-size: medium;
+    left: 33%;
+}
+
+.text {
+    position: relative;
+    top: 8.2rem;
+    text-align: center;
+    color: rgb(2, 2, 58);
+}
